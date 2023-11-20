@@ -5,6 +5,7 @@ BigBoy Stealer is a Windows stealer for Discord and much more. Steal Time: ~2 se
 Discord Support URL (Any features requests)
 
 💎・Features
+
 ⚠️・HOW TO INSTALL IT
 
 
