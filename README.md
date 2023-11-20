@@ -9,6 +9,8 @@ Discord Support URL (Any features requests)
 ⚠️・HOW TO INSTALL IT
 
 
+
+
 💎・Features
 
 🖼️ - Custom icon (Put custom icon (.ico format))
